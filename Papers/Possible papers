@@ -1,0 +1,31 @@
+This section outlines the scientific literature that forms the theoretical and methodological foundation of our project. Each paper supports specific architectural choices, data collection strategies, and preprocessing steps we implemented in our pipeline.
+
+1. Neural Media Bias Detection Using Distant Supervision With BABE (Spinde et al., 2021)
+- Purpose: Introduces the BABE dataset containing 3,700 expert-annotated sentences and a BERT-based classifier
+- What it justifies: The core architecture combining Distant Supervision on noisy labels with Fine-Tuning on expert labels
+- What we borrow: The 3-step training pipeline and the usage of the BABE dataset for the final fine-tuning step
+
+2. In Plain Sight: Media Bias Through the Lens of Factual Reporting (Fan et al., 2019)
+- Purpose: Distinguishes between lexical bias and informational bias in news articles reporting the same event
+- What it justifies: Comparing articles covering the exact same event from outlets of different ideologies neutralizes topic differences to isolate actual bias
+- What we borrow: The "triplet" scraping methodology (collecting Left, Center, and Right articles for the exact same event) and the theoretical distinction of bias types
+
+3. A Stylometric Inquiry into Hyperpartisan and Fake News (Potthast et al., 2018)
+- Purpose: Conducts a stylistic analysis to differentiate hyperpartisan news from the mainstream
+- What it justifies: The decision to merge Left and Right extreme articles into a single "Biased" class is justified, as empirical evidence shows they share more stylistic similarities with each other than with mainstream news
+- What we borrow: The label binarization strategy (Hyperpartisan 1 vs. Mainstream 0) for the Distant Supervision phase
+
+4. SemEval-2019 Task 4: Hyperpartisan News Detection (Kiesel et al., 2019)
+- Purpose: Defines the benchmark for automated hyperpartisan news detection
+- What it justifies: The need for rigorous data cleaning to prevent the model from learning the specific style of a publisher rather than the actual bias
+- What we borrow: Crucial data sanitization rules, specifically the removal of publisher names and internal links from our scraped articles before training
+
+5. An Effective Approach for Informational and Lexical Bias Detection (Maab et al., 2023)
+- Purpose: Investigates the impact of preprocessing in detecting different bias types
+- What it justifies: The necessity of dimensionality reduction in text data to enhance the detection of biases
+- What we borrow: The text preprocessing pipeline, specifically the removal of stop-words and the application of stemming
+
+6. A systematic review of automated hyperpartisan news detection (Maggini et al., 2025)
+- Purpose: Provides a recent systematic review defining hyperpartisanship in NLP
+- What it justifies: The conceptual formalization of our project's goal, defining hyperpartisanship as the exaggerated application of specific biases to promote an ideological perspective
+- What we borrow: Theoretical definitions for our project's introduction and problem formalization
