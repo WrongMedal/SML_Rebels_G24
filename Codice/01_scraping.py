@@ -1,1 +1,1 @@
-#Qui andrà il codice per fare lo scraping dei dati
+#Scraping nel file Jupyter... questo file è da eliminare
