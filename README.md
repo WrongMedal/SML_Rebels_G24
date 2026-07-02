@@ -9,16 +9,15 @@ Di seguito sono riportati la struttura e a che punto del lavoro stiamo secondo u
 SML_Rebels_G24/
 │
 ├── Dati/
-│   ├── Raw/          # dati originali scaricati
-│   └── Processed/    # dati puliti e pronti per il modello
+│   ├── Raw/          # dati originali scaricati, puliti
+│   └── Processed/    # dati vettorizzati e pronti per il modello
 │
 ├── Codice/
-│   ├── 01_scraping.py        # raccolta dei dati
-│   ├── 02_cleaning.py        # pulizia e preprocessing
-│   ├── 03_vis_an.py          # visualizzazioni e analisi dati 
-│   ├── 04_features.py        # feature exatraction (eventuale)
-│   ├── 05_model.py           # implementazione del modello
-│   └── 06_evaluations.py     # risultati e confronto con i paper
+│   ├── 01_scraper.ipynb            # raccolta dei dati
+│   ├── 02_preprocessing_EDA.ipybn  # pulizia, preprocessing e grafici --> libreria per grafici finali, vedi commenti
+│   ├── 03_model_1.py               # implementazione del modello 1
+│   ├── 04_model_2.py               # implementazione del modello 2
+│   └── 05_eval_comparison.py       # risultati e confronto con i paper e tra modelli
 │
 ├── Papers/           #papers selezionati con motivazioni associate
 │
@@ -29,16 +28,21 @@ SML_Rebels_G24/
 └── README.md         #questo file che state leggendo
 ```
 
+
+Nota: ai requirements manca la parte dello scraper... probebilmente non funziona su tutti i pc e su tutti i browser, comunque il dataset originale è a disposizione in \Dati\Raw\dataset_strutturato_allsides.csv
+
 ---
 
 ## Scaletta
 Per ora è abbastanza generale, mano mano che ci lavoriamo inseriamo dettagli, note e scadenze.
 
-- **Analisi dei paper** — lettura dei paper di riferimento e formalizzazione dell'obiettivo del progetto
-- **Scraping** — raccolta dei dati testuali
-- **Pulizia dei dati** — preprocessing, normalizzazione...
-- **Analisi esplorativa** — visualizzazione e comprensione della distribuzione dei dati
-- **Primo modello** — implementazione del modello principale di machine learning
+- ~~**Analisi dei paper** — lettura dei paper di riferimento e formalizzazione dell'obiettivo del progetto~~
+- ~~**Scraping** — raccolta dei dati testuali~~
+- ~~**Pulizia dei dati** — preprocessing, normalizzazione...~~
+- ~~**Analisi esplorativa** — visualizzazione e comprensione della distribuzione dei dati~~
+- **Primo modello** — implementazione del modello 1:
 - **Risultati** — valutazione delle performance e confronto con i paper di riferimento
-- **Secondo modello** — implementazione o descrizione teorica di un approccio alternativo
+- **Secondo modello** — implementazione del modello 2
+- **Risultati** — valutazione delle performance e confronto con i paper di riferimento
+- **Confronto** — confronto tra i due modelli
 - **Presentazione** — preparazione delle slide e dei materiali finali

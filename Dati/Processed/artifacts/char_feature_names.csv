@@ -1,0 +1,6253 @@
+0
+" ,"
+" , "
+ .
+ . 
+ . t
+ a
+ a 
+ a b
+ a c
+ a d
+ a f
+ a g
+ a h
+ a l
+ a m
+ a n
+ a o
+ a p
+ a r
+ a s
+ a t
+ a v
+ a w
+ ab
+ abo
+ ac
+ acc
+ acr
+ act
+ ad
+ add
+ adm
+ adv
+ af
+ aff
+ aft
+ ag
+ aga
+ age
+ agr
+ ai
+ al
+ all
+ alo
+ alr
+ als
+ am
+ amo
+ an
+ an 
+ and
+ ann
+ ano
+ ant
+ any
+ ap
+ app
+ ar
+ are
+ arg
+ aro
+ arr
+ art
+ as
+ as 
+ ask
+ ass
+ at
+ at 
+ att
+ au
+ aut
+ aw
+ awa
+ b
+ ba
+ bac
+ bal
+ ban
+ bas
+ be
+ be 
+ bec
+ bee
+ bef
+ beg
+ beh
+ bei
+ bel
+ bet
+ bi
+ big
+ bl
+ bla
+ blo
+ bo
+ bor
+ bot
+ br
+ bri
+ bro
+ bu
+ bui
+ bus
+ but
+ by
+ by 
+ c
+ ca
+ cal
+ cam
+ can
+ cap
+ car
+ cas
+ cau
+ ce
+ cel
+ cen
+ cer
+ ch
+ cha
+ chi
+ ci
+ cit
+ cl
+ cla
+ cle
+ cli
+ clo
+ co
+ coa
+ col
+ com
+ con
+ coo
+ cor
+ cos
+ cou
+ cov
+ cr
+ cre
+ cri
+ cu
+ cur
+ cut
+ d
+ da
+ dam
+ dat
+ de
+ dea
+ dec
+ dee
+ def
+ del
+ dem
+ den
+ dep
+ des
+ det
+ dev
+ di
+ did
+ dif
+ dir
+ dis
+ do
+ do 
+ doe
+ don
+ dow
+ dr
+ dra
+ dre
+ du
+ dur
+ e
+ ea
+ eac
+ ear
+ ed
+ ef
+ eff
+ el
+ ele
+ em
+ emp
+ en
+ enc
+ end
+ enf
+ ens
+ ent
+ es
+ est
+ ev
+ eve
+ ex
+ exa
+ exc
+ exe
+ exp
+ ext
+ f
+ fa
+ fac
+ fai
+ fal
+ fam
+ far
+ fat
+ fe
+ fea
+ fed
+ fel
+ fi
+ fig
+ fil
+ fin
+ fir
+ fl
+ fla
+ fo
+ foc
+ fol
+ foo
+ for
+ fou
+ fr
+ fra
+ fre
+ fro
+ fu
+ ful
+ fun
+ g
+ ga
+ gat
+ ge
+ gen
+ get
+ gi
+ giv
+ go
+ go 
+ goi
+ gov
+ gp
+ gpe
+ gr
+ gra
+ gre
+ gro
+ gu
+ h
+ ha
+ had
+ hal
+ han
+ har
+ has
+ hav
+ he
+ he 
+ hea
+ hel
+ her
+ hi
+ hig
+ him
+ his
+ ho
+ hol
+ hom
+ hos
+ hou
+ how
+ hu
+ i
+ i 
+ ic
+ ice
+ id
+ ide
+ if
+ if 
+ il
+ ill
+ im
+ im 
+ imm
+ imp
+ in
+ in 
+ inc
+ ind
+ inf
+ ins
+ int
+ inv
+ is
+ is 
+ iss
+ it
+ it 
+ its
+ j
+ jo
+ joi
+ ju
+ jud
+ jus
+ k
+ ke
+ kee
+ ki
+ kil
+ kn
+ kno
+ l
+ la
+ lan
+ lar
+ lat
+ lau
+ law
+ le
+ lea
+ led
+ lef
+ leg
+ let
+ lev
+ li
+ lif
+ lik
+ lim
+ lin
+ lis
+ liv
+ lo
+ loc
+ lon
+ loo
+ los
+ low
+ m
+ ma
+ mad
+ mai
+ maj
+ mak
+ man
+ mar
+ mat
+ may
+ me
+ mea
+ med
+ mee
+ mem
+ met
+ mi
+ mig
+ mil
+ min
+ mis
+ mo
+ mom
+ mon
+ mor
+ mos
+ mot
+ mov
+ mu
+ muc
+ mul
+ mus
+ my
+ my 
+ n
+ na
+ nam
+ nat
+ ne
+ nee
+ neg
+ new
+ no
+ no 
+ non
+ nor
+ not
+ now
+ nu
+ num
+ o
+ of
+ of 
+ off
+ on
+ on 
+ onc
+ one
+ onl
+ op
+ ope
+ opp
+ or
+ or 
+ ord
+ org
+ ot
+ oth
+ ou
+ our
+ out
+ ov
+ ove
+ ow
+ own
+ p
+ pa
+ par
+ pas
+ pe
+ pea
+ peo
+ per
+ ph
+ pho
+ pi
+ pl
+ pla
+ po
+ poi
+ pol
+ por
+ pos
+ pot
+ pow
+ pr
+ pre
+ pri
+ pro
+ pu
+ pub
+ put
+ q
+ qu
+ qua
+ que
+ r
+ ra
+ rac
+ rai
+ ran
+ re
+ rea
+ rec
+ red
+ ref
+ reg
+ rel
+ rem
+ ren
+ rep
+ req
+ res
+ ret
+ rev
+ ri
+ rig
+ ris
+ ro
+ ru
+ rul
+ run
+ s
+ sa
+ saf
+ sai
+ sam
+ say
+ sc
+ sca
+ sch
+ scr
+ se
+ sea
+ sec
+ see
+ sel
+ sen
+ ser
+ set
+ sev
+ sh
+ sha
+ she
+ shi
+ sho
+ si
+ sid
+ sig
+ sin
+ sit
+ sl
+ so
+ so 
+ soc
+ som
+ sou
+ sp
+ spa
+ spe
+ spi
+ spo
+ st
+ sta
+ ste
+ sti
+ sto
+ str
+ stu
+ su
+ sub
+ suc
+ sup
+ sur
+ sus
+ sy
+ t
+ ta
+ tak
+ tal
+ te
+ tea
+ tec
+ tel
+ tem
+ ter
+ tes
+ th
+ tha
+ the
+ thi
+ tho
+ thr
+ ti
+ tim
+ to
+ to 
+ tol
+ too
+ top
+ tou
+ tr
+ tra
+ tri
+ tru
+ tu
+ tur
+ u
+ un
+ unc
+ und
+ uni
+ up
+ up 
+ us
+ use
+ v
+ va
+ ve
+ ver
+ vi
+ vic
+ vie
+ vio
+ vis
+ vo
+ vot
+ w
+ wa
+ wal
+ wan
+ war
+ was
+ wat
+ way
+ we
+ we 
+ wea
+ wel
+ wer
+ wh
+ wha
+ whe
+ whi
+ who
+ wi
+ wil
+ win
+ wit
+ wo
+ won
+ wor
+ wou
+ wr
+ wro
+ y
+ ye
+ yo
+ you
+", "
+", a"
+", a "
+", ac"
+", ad"
+", al"
+", an"
+", as"
+", b"
+", bu"
+", c"
+", ca"
+", co"
+", d"
+", da"
+", de"
+", e"
+", f"
+", fo"
+", g"
+", gp"
+", h"
+", ha"
+", he"
+", i"
+", i "
+", in"
+", is"
+", it"
+", l"
+", li"
+", m"
+", ma"
+", n"
+", no"
+", o"
+", or"
+", p"
+", pe"
+", pr"
+", r"
+", re"
+", s"
+", sa"
+", se"
+", sh"
+", t"
+", th"
+", to"
+", u"
+", v"
+", w"
+", wa"
+", we"
+", wh"
+", wi"
+. 
+. a
+. a 
+. an
+. as
+. b
+. bu
+. c
+. ca
+. d
+. da
+. e
+. f
+. fo
+. g
+. gp
+. h
+. he
+. i
+. i 
+. in
+. it
+. l
+. m
+. n
+. no
+. o
+. on
+. or
+. p
+. pe
+. pr
+. s
+. t
+. th
+. u
+. w
+. we
+. wh
+. wi
+? 
+_a
+_ar
+_art
+_o
+_of
+_of_
+a 
+a b
+a c
+a ca
+a co
+a cr
+a d
+a da
+a de
+a di
+a f
+a fa
+a fe
+a fo
+a g
+a gp
+a h
+a l
+a la
+a le
+a lo
+a m
+a ma
+a me
+a mo
+a n
+a ne
+a no
+a o
+a or
+a p
+a pa
+a pe
+a po
+a pr
+a r
+a re
+a s
+a se
+a sp
+a st
+a t
+a te
+a to
+a v
+a w
+a wa
+a.
+a. 
+ab
+abi
+abil
+abl
+able
+abo
+abou
+ac
+ac 
+ac.
+acc
+acce
+acco
+accu
+ace
+ace 
+ach
+ach 
+ache
+aci
+ack
+ack 
+acki
+acr
+acro
+act
+act 
+acti
+actu
+acy
+ad
+ad 
+ad a
+ad b
+ad o
+ad t
+add
+adde
+addi
+addr
+ade
+ade 
+ader
+adi
+adin
+adl
+adm
+admi
+adv
+ady
+ady 
+af
+afe
+aff
+affi
+aft
+afte
+ag
+aga
+agai
+age
+age 
+"age,"
+aged
+agen
+ages
+agg
+agi
+agin
+agr
+agre
+ah
+ahe
+ai
+aid
+aid 
+"aid,"
+aid.
+aig
+aign
+ail
+aile
+aili
+aim
+aime
+aims
+ain
+ain 
+aine
+aini
+ains
+aint
+air
+ais
+aise
+ait
+aith
+aj
+ajo
+ajor
+ak
+ak 
+ake
+ake 
+aker
+akes
+aki
+akin
+al
+al 
+al a
+al b
+al c
+al d
+al e
+al f
+al g
+al h
+al i
+al j
+al l
+al m
+al n
+al o
+al p
+al r
+al s
+al t
+al v
+al w
+"al,"
+"al, "
+al.
+al. 
+ale
+ali
+alis
+alk
+alks
+all
+all 
+alle
+alli
+allo
+ally
+alo
+alon
+alr
+alre
+als
+als 
+als.
+also
+alt
+alth
+am
+am 
+ama
+amag
+amb
+ame
+ame 
+amer
+ami
+amil
+amin
+amo
+amon
+amp
+ampa
+ams
+ams 
+an
+an 
+an a
+an e
+an i
+an o
+an p
+an t
+ana
+anc
+ance
+and
+and 
+anda
+andi
+ane
+ang
+ange
+ani
+aniz
+ank
+ann
+anne
+anno
+ano
+anot
+ans
+ans 
+ant
+ant 
+anti
+ants
+any
+any 
+ap
+ape
+api
+apit
+apo
+apon
+app
+appe
+appl
+appo
+appr
+ar
+ar 
+ar a
+ar i
+ar t
+ar w
+ar.
+ara
+arat
+arc
+arch
+ard
+ard 
+ardi
+are
+are 
+ared
+arg
+arge
+argu
+ari
+arin
+ark
+arke
+arl
+arly
+arm
+arn
+arne
+aro
+arou
+arr
+arre
+arri
+ars
+ars 
+art
+art 
+arti
+arts
+arty
+ary
+ary 
+as
+as 
+as a
+as b
+as c
+as d
+as e
+as f
+as g
+as h
+as i
+as l
+as m
+as n
+as o
+as p
+as r
+as s
+as t
+as w
+ase
+ase 
+ased
+ash
+asi
+ask
+ass
+ass 
+assa
+asse
+assi
+ast
+ast 
+asu
+at
+at 
+at a
+at c
+at d
+at e
+at f
+at g
+at h
+at i
+at l
+at m
+at n
+at o
+at p
+at r
+at s
+at t
+at w
+ata
+atc
+atch
+ate
+ate 
+"ate,"
+ate.
+ated
+atel
+atem
+aten
+ater
+ates
+ath
+athe
+ati
+atin
+atio
+ativ
+ato
+ator
+ats
+ats 
+att
+atta
+atte
+attl
+atto
+atu
+au
+aud
+aun
+aunc
+aus
+ause
+aut
+auth
+av
+ave
+ave 
+avel
+avi
+avin
+avo
+aw
+aw 
+awa
+awm
+awma
+aws
+awsu
+ax
+ay
+ay 
+ay f
+ay t
+aye
+ayi
+ayin
+ays
+ays 
+az
+b 
+ba
+bac
+back
+bal
+ball
+ban
+bar
+bas
+base
+bat
+bb
+be
+be 
+be a
+be i
+be r
+be s
+be t
+bec
+beca
+beco
+bed
+bed 
+bee
+been
+bef
+befo
+beg
+begi
+beh
+bei
+bein
+bel
+beli
+ben
+ber
+ber 
+bers
+bes
+bet
+betw
+bi
+big
+bil
+bili
+bin
+bl
+bla
+ble
+ble 
+bli
+blic
+blis
+blo
+bloc
+bo
+boa
+bor
+bot
+both
+bou
+bout
+br
+bra
+bre
+brea
+bri
+bro
+broa
+bs
+bt
+bu
+bui
+buil
+bus
+busi
+but
+but 
+by
+by 
+by a
+by c
+by g
+by o
+by p
+by t
+c 
+c a
+c an
+c f
+c i
+c in
+c o
+c p
+c s
+c t
+c w
+"c,"
+"c, "
+c.
+c. 
+ca
+cal
+cal 
+call
+cam
+came
+camp
+can
+can 
+cand
+cant
+cap
+capi
+car
+card
+care
+carr
+cas
+case
+cast
+cat
+cate
+cati
+cau
+caus
+cc
+cce
+cces
+cco
+ccor
+ccu
+ccus
+ce
+ce 
+ce a
+ce c
+ce d
+ce f
+ce h
+ce i
+ce o
+ce p
+ce s
+ce t
+ce w
+"ce,"
+"ce, "
+ce.
+ce. 
+ced
+ced 
+cei
+ceiv
+cel
+cele
+cem
+ceme
+cen
+cent
+cer
+cern
+cert
+ces
+ces 
+cess
+ch
+ch 
+ch a
+ch c
+ch h
+ch i
+ch o
+ch s
+ch t
+ch w
+cha
+chai
+chal
+chan
+char
+che
+ched
+chi
+chie
+chil
+chin
+chn
+chni
+cho
+ci
+cia
+cial
+cid
+cide
+cie
+cies
+cil
+cili
+cin
+cing
+cip
+cipa
+cis
+cisi
+cit
+citi
+city
+civ
+ck
+ck 
+ck a
+ck o
+ck t
+cke
+cked
+cki
+ckin
+cks
+cl
+cla
+clai
+clar
+clas
+cle
+clea
+cli
+clin
+clo
+clos
+clu
+clud
+co
+coa
+col
+coll
+com
+come
+comi
+comm
+comp
+con
+conc
+cond
+conf
+cong
+cons
+cont
+coo
+cor
+cord
+corr
+cos
+cost
+cou
+coul
+coun
+cour
+cov
+cove
+cr
+cra
+cre
+crea
+cret
+cri
+crib
+crim
+crit
+cro
+cros
+cru
+cs
+cs 
+ct
+ct 
+ct o
+ct t
+"ct,"
+"ct, "
+cte
+cted
+cti
+ctin
+ctio
+ctiv
+cto
+ctor
+cts
+cts 
+ctu
+ctur
+cu
+cul
+cum
+cur
+curi
+curr
+cus
+cuse
+cuss
+cut
+cuti
+cy
+cy 
+cy.
+d 
+d a
+d a 
+d ad
+d af
+d al
+d an
+d ar
+d as
+d at
+d b
+d be
+d bu
+d by
+d c
+d ca
+d ch
+d cl
+d co
+d d
+d da
+d de
+d di
+d do
+d du
+d e
+d en
+d ev
+d ex
+d f
+d fa
+d fi
+d fo
+d fr
+d g
+d gp
+d h
+d ha
+d he
+d hi
+d ho
+d i
+d in
+d it
+d l
+d la
+d le
+d lo
+d m
+d ma
+d mo
+d n
+d ne
+d no
+d o
+d of
+d on
+d or
+d ot
+d ou
+d p
+d pe
+d po
+d pr
+d r
+d re
+d s
+d sa
+d se
+d sh
+d so
+d st
+d t
+d te
+d th
+d ti
+d to
+d tr
+d u
+d un
+d up
+d v
+d w
+d wa
+d we
+d wh
+d wi
+d wo
+"d,"
+"d, "
+"d, a"
+"d, t"
+d.
+d. 
+d. a
+d. i
+d. o
+d. t
+da
+dab
+dam
+dama
+dan
+dar
+dat
+date
+day
+dc
+dca
+dd
+dde
+dded
+ddi
+ddr
+ddre
+de
+de 
+de a
+de c
+de o
+de t
+dea
+deal
+deat
+dec
+deci
+decl
+ded
+ded 
+dee
+deep
+def
+defe
+del
+deli
+dem
+den
+denc
+dent
+dep
+der
+der 
+dera
+ders
+des
+des 
+desc
+desp
+dest
+det
+deta
+dete
+dev
+df
+dg
+dge
+dge 
+di
+dia
+dia 
+diat
+dic
+dica
+dict
+did
+did 
+dida
+die
+dif
+diff
+din
+dina
+ding
+dir
+dire
+dis
+disa
+disc
+dist
+dit
+diti
+div
+divi
+dl
+dle
+dly
+dly 
+dm
+dmi
+dmin
+dn
+do
+do 
+doe
+does
+doi
+doin
+dom
+don
+dont
+dor
+dow
+down
+dr
+dra
+draw
+dre
+dres
+dri
+ds
+ds 
+ds a
+ds.
+ds. 
+du
+dua
+dual
+duc
+duct
+dul
+dur
+duri
+dv
+dy
+dy 
+e 
+"e ,"
+"e , "
+e a
+e a 
+e ab
+e ac
+e ad
+e af
+e ag
+e al
+e an
+e ap
+e ar
+e as
+e at
+e b
+e ba
+e be
+e bi
+e bl
+e bo
+e bu
+e by
+e c
+e ca
+e ce
+e ch
+e ci
+e cl
+e co
+e cr
+e cu
+e d
+e da
+e de
+e di
+e do
+e dr
+e du
+e e
+e el
+e en
+e ev
+e ex
+e f
+e fa
+e fe
+e fi
+e fo
+e fr
+e fu
+e g
+e ge
+e go
+e gp
+e gr
+e h
+e ha
+e he
+e hi
+e ho
+e i
+e in
+e is
+e it
+e j
+e k
+e l
+e la
+e le
+e li
+e lo
+e m
+e ma
+e me
+e mi
+e mo
+e n
+e na
+e ne
+e no
+e o
+e of
+e on
+e op
+e or
+e ou
+e ov
+e p
+e pa
+e pe
+e pl
+e po
+e pr
+e pu
+e q
+e r
+e ra
+e re
+e ri
+e ru
+e s
+e sa
+e sc
+e se
+e sh
+e si
+e so
+e sp
+e st
+e su
+e t
+e ta
+e te
+e th
+e ti
+e to
+e tr
+e u
+e un
+e v
+e ve
+e vi
+e vo
+e w
+e wa
+e we
+e wh
+e wi
+e wo
+e y
+e yo
+"e,"
+"e, "
+"e, a"
+"e, b"
+"e, c"
+"e, d"
+"e, g"
+"e, h"
+"e, i"
+"e, o"
+"e, p"
+"e, r"
+"e, s"
+"e, t"
+"e, w"
+e.
+e. 
+e. a
+e. b
+e. h
+e. i
+e. o
+e. p
+e. s
+e. t
+e. w
+ea
+eac
+each
+ead
+ead 
+eade
+eadi
+eadl
+eady
+eak
+eak 
+eake
+eal
+eal 
+eali
+ealt
+eam
+eam 
+ean
+eap
+eapo
+ear
+ear 
+eare
+eari
+earl
+ears
+eas
+ease
+easi
+eat
+eat 
+eate
+eath
+eati
+eav
+eb
+ebr
+ebra
+ec
+eca
+ecau
+ece
+ecei
+ecen
+ech
+ech 
+echn
+eci
+ecis
+ecl
+ecli
+eco
+ecom
+econ
+ecr
+ecre
+ect
+ect 
+ecte
+ecti
+ecu
+ecur
+ecut
+ed
+ed 
+ed a
+ed b
+ed c
+ed d
+ed e
+ed f
+ed g
+ed h
+ed i
+ed l
+ed m
+ed n
+ed o
+ed p
+ed r
+ed s
+ed t
+ed u
+ed w
+"ed,"
+"ed, "
+ed.
+ed. 
+ede
+eder
+edi
+edia
+edic
+edit
+edl
+edly
+edo
+edu
+educ
+ee
+ee 
+eed
+eed 
+eek
+eem
+eeme
+een
+een 
+eep
+eep 
+ees
+ees 
+eet
+eet 
+eeti
+ef
+ef 
+efe
+efen
+eff
+effe
+effo
+efi
+efo
+efor
+eft
+eft 
+efu
+eg
+ega
+egal
+egar
+egat
+ege
+eged
+egi
+egin
+egis
+ego
+egot
+egu
+eh
+ehi
+ei
+eig
+eign
+ein
+eing
+eir
+eir 
+eiv
+eive
+ek
+el
+el 
+ela
+elat
+eld
+eld 
+ele
+elea
+elec
+eles
+elev
+elf
+eli
+elie
+elin
+ell
+ell 
+elli
+elo
+elp
+elp 
+els
+ely
+ely 
+em
+em 
+em.
+ema
+emai
+emb
+embe
+eme
+emen
+emi
+emo
+emon
+emor
+emov
+emp
+empo
+empt
+ems
+en
+en 
+en a
+en c
+en g
+en h
+en i
+en l
+en o
+en p
+en r
+en s
+en t
+en w
+en.
+en. 
+ena
+enc
+ence
+enco
+ency
+end
+end 
+enda
+ende
+endi
+ends
+ene
+ened
+ener
+enf
+enfo
+eng
+enge
+eni
+enin
+enio
+eno
+ens
+ens 
+ense
+ensi
+ensu
+ent
+ent 
+"ent,"
+ent.
+enta
+ente
+enti
+entl
+ents
+env
+eo
+eo 
+eop
+eopl
+ep
+ep 
+ep.
+ep. 
+epa
+epar
+epe
+epl
+epo
+epor
+epr
+epre
+ept
+eq
+equ
+eque
+equi
+er
+er 
+er a
+er b
+er c
+er d
+er e
+er f
+er g
+er h
+er i
+er l
+er m
+er n
+er o
+er p
+er r
+er s
+er t
+er w
+"er,"
+"er, "
+er.
+er. 
+era
+eral
+erat
+erc
+erce
+ere
+ere 
+ered
+eren
+eres
+erf
+erg
+erge
+eri
+erie
+erin
+erio
+erm
+erm 
+ermi
+ern
+erna
+ernm
+erno
+erns
+ero
+err
+erri
+ers
+ers 
+"ers,"
+ers.
+ersa
+erse
+ersi
+erso
+erst
+ert
+erta
+erv
+erva
+erve
+ervi
+erw
+ery
+ery 
+es
+es 
+es a
+es b
+es c
+es d
+es e
+es f
+es h
+es i
+es l
+es m
+es n
+es o
+es p
+es s
+es t
+es u
+es w
+"es,"
+"es, "
+es.
+es. 
+esc
+escr
+ese
+ese 
+esen
+esh
+esi
+esid
+esn
+esnt
+eso
+esp
+espe
+espi
+espo
+ess
+ess 
+essa
+esse
+essi
+est
+est 
+esta
+este
+esti
+esto
+estr
+ests
+esu
+esul
+et
+et 
+et a
+et o
+et t
+et.
+et. 
+eta
+etai
+etar
+ete
+eth
+ethe
+eti
+etin
+ets
+ets 
+ett
+ette
+etu
+etur
+etw
+etwe
+ety
+ety 
+ev
+eva
+eve
+eve 
+evel
+even
+ever
+evi
+evie
+evis
+ew
+ew 
+ew t
+ewe
+ewed
+ews
+ews 
+ex
+exa
+exc
+exe
+exec
+exp
+expe
+expl
+expr
+ext
+ey
+ey 
+ey a
+ey d
+ey f
+ey h
+ey i
+ey r
+ey s
+ey w
+f 
+f a
+f a 
+f an
+f b
+f c
+f ca
+f co
+f d
+f da
+f de
+f di
+f e
+f f
+f fa
+f g
+f gp
+f h
+f hi
+f i
+f in
+f it
+f l
+f m
+f n
+f no
+f o
+f or
+f p
+f pe
+f pr
+f r
+f s
+f st
+f t
+f th
+f v
+f w
+f wh
+f_
+f_a
+f_ar
+fa
+fac
+fac 
+fac.
+face
+faci
+fact
+fai
+fait
+fal
+fam
+fami
+far
+fat
+fe
+fe 
+fea
+fec
+fect
+fed
+fede
+fel
+fen
+fend
+fer
+fere
+fes
+ff
+ff 
+ffe
+ffec
+ffer
+ffi
+ffic
+ffo
+ffor
+fi
+fic
+fica
+fice
+fici
+fie
+fied
+fig
+figh
+fil
+file
+fin
+fina
+find
+fir
+fire
+firm
+fit
+fit 
+fl
+fla
+fle
+fli
+flic
+flu
+fo
+foc
+focu
+fol
+foll
+foo
+for
+for 
+forc
+fore
+form
+fort
+fou
+foun
+fr
+fra
+fre
+free
+fro
+from
+ft
+ft 
+fte
+fter
+fu
+ful
+ful 
+full
+fun
+fund
+fur
+g 
+"g ,"
+"g , "
+g .
+g . 
+g a
+g a 
+g ad
+g ag
+g al
+g an
+g as
+g at
+g b
+g be
+g by
+g c
+g ca
+g ch
+g co
+g d
+g da
+g de
+g do
+g e
+g ev
+g f
+g fi
+g fo
+g fr
+g g
+g gp
+g h
+g ha
+g he
+g hi
+g ho
+g i
+g in
+g is
+g it
+g l
+g m
+g ma
+g me
+g mo
+g n
+g no
+g o
+g of
+g on
+g or
+g p
+g pa
+g pe
+g pl
+g po
+g pr
+g r
+g re
+g s
+g sa
+g se
+g sh
+g so
+g st
+g su
+g t
+g th
+g to
+g u
+g un
+g up
+g v
+g w
+g wa
+g wh
+g wi
+g wo
+"g,"
+"g, "
+"g, a"
+"g, o"
+"g, t"
+"g, w"
+g.
+g. 
+g. i
+g. t
+ga
+gai
+gain
+gal
+gal 
+gan
+gani
+gar
+gard
+gat
+gati
+ge
+ge 
+ge a
+ge i
+ge o
+ge p
+ge t
+"ge,"
+"ge, "
+ged
+ged 
+gem
+gen
+genc
+gene
+gent
+ger
+ger 
+ges
+ges 
+gest
+get
+get 
+gg
+gge
+gges
+gh
+gh 
+gh a
+gh t
+ghe
+ght
+ght 
+ghte
+ghts
+gi
+gin
+ging
+gio
+gis
+gisl
+giv
+give
+gl
+gle
+gly
+gly 
+gn
+gn 
+gna
+gne
+gned
+gni
+gnif
+go
+go 
+goi
+goin
+goo
+got
+goti
+gov
+gove
+gp
+gpe
+gpe 
+"gpe,"
+gpe.
+gpes
+gr
+gra
+gram
+gran
+grat
+gre
+gree
+gres
+gro
+grou
+gs
+gs 
+gs i
+gs t
+gt
+gu
+gua
+guar
+gue
+gul
+gur
+gy
+gy 
+h 
+h a
+h a 
+h an
+h b
+h c
+h ca
+h d
+h f
+h g
+h gp
+h h
+h ha
+h i
+h in
+h is
+h l
+h m
+h n
+h no
+h o
+h of
+h or
+h p
+h pe
+h r
+h re
+h s
+h t
+h th
+h w
+"h,"
+"h, "
+h.
+h. 
+ha
+had
+had 
+hai
+hair
+hal
+hall
+han
+han 
+hand
+hang
+hap
+har
+hard
+hare
+harg
+has
+has 
+hat
+hat 
+hats
+hav
+have
+havi
+he
+he 
+he a
+he b
+he c
+he d
+he e
+he f
+he g
+he h
+he i
+he l
+he m
+he n
+he o
+he p
+he r
+he s
+he t
+he u
+he v
+he w
+hea
+head
+heal
+hear
+hed
+hed 
+hei
+heir
+hel
+held
+help
+hem
+hem 
+hen
+hen 
+her
+her 
+here
+hers
+hes
+hes 
+hese
+hest
+het
+heth
+hey
+hey 
+hi
+hic
+hich
+hie
+hief
+hig
+high
+hil
+hild
+hile
+him
+him 
+hin
+hin 
+hing
+hink
+hip
+his
+his 
+hist
+hit
+hl
+hn
+hni
+hnic
+ho
+ho 
+ho a
+ho s
+ho w
+hol
+hold
+hom
+home
+hon
+hoo
+hop
+hor
+hori
+hort
+hos
+hose
+host
+hot
+hou
+houg
+houl
+hous
+hout
+how
+how 
+howe
+hr
+hre
+hrea
+hro
+hrou
+hs
+ht
+ht 
+ht t
+hte
+hts
+hts 
+hu
+hy
+hy 
+i 
+ia
+ia 
+ial
+ial 
+iall
+ials
+ian
+iat
+iate
+iati
+ib
+ibe
+ibi
+ibl
+ible
+ic
+ic 
+ic i
+ica
+ical
+ican
+icat
+ice
+ice 
+icer
+ices
+ich
+ich 
+ici
+icia
+icip
+ick
+ics
+ics 
+ict
+ict 
+icti
+icy
+icy 
+id
+id 
+id a
+id d
+id h
+id i
+id n
+id o
+id t
+"id,"
+"id, "
+id.
+id. 
+ida
+idat
+ide
+ide 
+ided
+iden
+ider
+ides
+idu
+idua
+ie
+ied
+ied 
+ief
+ief 
+ien
+ier
+ier 
+ies
+ies 
+"ies,"
+ies.
+iev
+ieve
+iew
+iew 
+if
+if 
+ife
+ife 
+iff
+ifi
+ific
+ifie
+ift
+ig
+iga
+igat
+ige
+igen
+igg
+igh
+ight
+igi
+ign
+ign 
+igna
+igne
+igni
+igr
+igra
+ik
+ike
+ike 
+il
+il 
+ila
+ild
+ild 
+ile
+ile 
+iled
+ili
+ilia
+ilin
+ilit
+ill
+ill 
+ille
+illi
+ilt
+ily
+ily 
+im
+im 
+im a
+ima
+imar
+ime
+ime 
+"ime,"
+ime.
+imed
+imes
+imi
+imin
+imit
+imm
+imme
+immi
+imp
+impl
+impo
+ims
+ims 
+in
+in 
+in a
+in c
+in d
+in e
+in f
+in g
+in h
+in i
+in l
+in m
+in n
+in o
+in p
+in s
+in t
+ina
+inal
+inan
+inat
+inc
+ince
+incl
+incr
+ind
+ind 
+inde
+indi
+ine
+ine 
+ined
+ines
+inf
+infl
+info
+ing
+ing 
+"ing,"
+ing.
+ingl
+ings
+ini
+inin
+inis
+init
+ink
+ink 
+inn
+inni
+ins
+ins 
+insi
+inst
+int
+int 
+inte
+into
+inu
+inue
+inv
+inve
+invo
+io
+iol
+ion
+ion 
+"ion,"
+ion.
+iona
+ions
+ior
+ior 
+iou
+ious
+ip
+ip 
+ipa
+ipat
+ipl
+iple
+ir
+ir 
+ir p
+ire
+ire 
+irec
+ired
+iri
+irm
+irm 
+irme
+is
+is 
+is a
+is b
+is c
+is d
+is e
+is f
+is h
+is i
+is l
+is m
+is n
+is o
+is p
+is r
+is s
+is t
+is w
+"is,"
+"is, "
+isa
+isc
+iscu
+ise
+ise 
+ised
+ish
+ishe
+isi
+isin
+isio
+isl
+isla
+ism
+ism 
+iso
+iss
+issi
+issu
+ist
+ist 
+iste
+isto
+istr
+ists
+it
+it 
+it a
+it c
+it f
+it h
+it i
+it o
+it s
+it t
+it w
+it.
+it. 
+ita
+ital
+itar
+ite
+ite 
+ited
+ith
+ith 
+ithi
+itho
+iti
+itic
+itie
+itin
+itio
+itiz
+ito
+itor
+its
+its 
+itt
+itte
+itu
+ity
+ity 
+ity.
+iv
+iva
+ive
+ive 
+ived
+ivel
+iver
+ives
+ivi
+ivid
+ivin
+iz
+iza
+izat
+ize
+ize 
+ized
+izen
+izi
+izin
+je
+jec
+ject
+jo
+joi
+join
+jor
+jor 
+ju
+jud
+judg
+jur
+jus
+just
+k 
+k a
+k d
+k i
+k in
+k o
+k t
+k th
+k to
+k w
+"k,"
+"k, "
+k.
+k. 
+k_
+k_o
+k_of
+ka
+ke
+ke 
+ke o
+ke t
+ked
+ked 
+kee
+keep
+ken
+ken 
+ker
+ker 
+kers
+kes
+kes 
+ket
+ki
+kil
+kill
+kin
+king
+kn
+kno
+know
+ks
+ks 
+ks t
+l 
+l a
+l ag
+l an
+l ap
+l as
+l at
+l b
+l ba
+l be
+l c
+l ca
+l co
+l d
+l da
+l de
+l e
+l el
+l en
+l f
+l fo
+l fr
+l g
+l h
+l ha
+l he
+l i
+l in
+l is
+l j
+l ju
+l l
+l le
+l m
+l ma
+l me
+l mo
+l n
+l no
+l o
+l of
+l on
+l or
+l p
+l pa
+l pe
+l po
+l pr
+l r
+l re
+l s
+l se
+l si
+l st
+l t
+l te
+l th
+l to
+l v
+l w
+l wi
+"l,"
+"l, "
+"l, a"
+l.
+l. 
+l. t
+la
+lab
+lac
+lace
+lai
+laim
+lain
+lam
+lan
+land
+lar
+lar 
+larg
+las
+lash
+lat
+late
+lati
+lau
+law
+law 
+lawm
+laws
+lay
+ld
+ld 
+ld b
+ld h
+ld n
+ld o
+ld s
+ld t
+ldi
+ldin
+le
+le 
+le a
+le f
+le h
+le i
+le o
+le p
+le s
+le t
+le w
+"le,"
+"le, "
+le.
+lea
+lead
+lear
+leas
+leav
+leb
+lec
+lect
+led
+led 
+lef
+left
+leg
+lega
+lege
+legi
+lem
+len
+leng
+ler
+les
+les 
+less
+let
+let 
+lete
+lev
+leve
+lf
+lf 
+li
+lia
+lib
+lic
+lic 
+lica
+lict
+licy
+lie
+lies
+liev
+lif
+life
+lig
+lige
+ligh
+lik
+like
+lim
+limi
+lin
+line
+ling
+link
+lis
+lish
+list
+lit
+lita
+liti
+lity
+liv
+live
+lk
+lks
+lks 
+ll
+ll 
+ll a
+ll b
+ll c
+ll d
+ll f
+ll h
+ll i
+ll n
+ll o
+ll p
+ll r
+ll s
+ll t
+"ll,"
+"ll, "
+lla
+lle
+lled
+lleg
+llen
+lli
+llig
+llin
+llo
+llow
+lls
+lls 
+lly
+lly 
+lm
+lo
+lob
+loc
+loc 
+loca
+lock
+log
+lon
+long
+loo
+look
+lop
+los
+lose
+lot
+lot 
+low
+low 
+lowe
+lowi
+loy
+lp
+lp 
+lr
+lre
+lrea
+ls
+ls 
+ls a
+ls o
+ls t
+ls w
+"ls,"
+"ls, "
+ls.
+ls. 
+lse
+lso
+lso 
+lt
+lt 
+lth
+lti
+lu
+lud
+lude
+ludi
+lue
+lus
+lut
+lv
+lve
+ly
+ly 
+ly a
+ly b
+ly c
+ly d
+ly f
+ly i
+ly m
+ly o
+ly p
+ly r
+ly s
+ly t
+ly w
+"ly,"
+"ly, "
+ly.
+m 
+m a
+m a 
+m an
+m as
+m c
+m d
+m f
+m g
+m gp
+m h
+m i
+m in
+m m
+m n
+m no
+m o
+m of
+m or
+m p
+m r
+m re
+m s
+m t
+m th
+m to
+m w
+"m,"
+"m, "
+m.
+m. 
+ma
+mad
+made
+mag
+mage
+mai
+main
+maj
+majo
+mak
+make
+maki
+mal
+mall
+man
+man 
+many
+mar
+mark
+mary
+mas
+mat
+mate
+mati
+matt
+may
+may 
+mb
+mbe
+mber
+mbo
+me
+me 
+me a
+me c
+me f
+me i
+me m
+me o
+me s
+me t
+me w
+"me,"
+"me, "
+me.
+me. 
+mea
+mean
+med
+med 
+medi
+mee
+meet
+mel
+mem
+memb
+memo
+men
+ment
+mer
+mer 
+merg
+mes
+mes 
+met
+mi
+mic
+mic 
+mid
+mig
+migr
+mil
+mili
+min
+mina
+mine
+ming
+mini
+mis
+miss
+mit
+mitt
+mm
+mme
+mmed
+mmen
+mmi
+mmig
+mmit
+mmu
+mmun
+mo
+mom
+mome
+mon
+mone
+mong
+mony
+mor
+mora
+more
+mos
+most
+mot
+mou
+mov
+move
+mp
+mp 
+mpa
+mpai
+mpan
+mpe
+mpl
+mple
+mpo
+mpor
+mpr
+mpt
+ms
+ms 
+ms t
+mu
+muc
+much
+mul
+mult
+mun
+muni
+mus
+my
+my 
+n 
+n a
+n a 
+n ac
+n ad
+n af
+n ag
+n al
+n an
+n ap
+n ar
+n as
+n at
+n b
+n be
+n by
+n c
+n ca
+n ch
+n co
+n d
+n da
+n de
+n di
+n e
+n en
+n ev
+n ex
+n f
+n fa
+n fo
+n fr
+n g
+n gp
+n h
+n ha
+n he
+n hi
+n ho
+n i
+n im
+n in
+n is
+n it
+n l
+n la
+n le
+n li
+n lo
+n m
+n ma
+n mi
+n n
+n no
+n o
+n of
+n on
+n or
+n p
+n pa
+n pe
+n po
+n pr
+n r
+n re
+n s
+n sa
+n se
+n si
+n so
+n st
+n su
+n t
+n th
+n ti
+n to
+n tr
+n u
+n un
+n v
+n w
+n wa
+n wh
+n wi
+n wo
+"n,"
+"n, "
+"n, a"
+"n, c"
+"n, d"
+"n, h"
+"n, i"
+"n, o"
+"n, r"
+"n, s"
+"n, t"
+"n, w"
+n.
+n. 
+n. i
+n. p
+n. t
+na
+nag
+nage
+nal
+nal 
+"nal,"
+nali
+nall
+nam
+name
+nan
+nanc
+nar
+nat
+nate
+nati
+nc
+nce
+nce 
+nced
+ncer
+nces
+nch
+nci
+ncl
+nclu
+nco
+ncr
+ncre
+ncy
+ncy 
+nd
+nd 
+nd a
+nd b
+nd c
+nd d
+nd e
+nd f
+nd g
+nd h
+nd i
+nd l
+nd m
+nd n
+nd o
+nd p
+nd r
+nd s
+nd t
+nd u
+nd w
+"nd,"
+"nd, "
+nd.
+nd. 
+nda
+nde
+nded
+nden
+nder
+ndi
+ndid
+ndin
+ndiv
+ndo
+nds
+nds 
+ndu
+nduc
+ne
+ne 
+ne a
+ne o
+ne t
+ne w
+"ne,"
+"ne, "
+nea
+nec
+ned
+ned 
+nee
+need
+neg
+nego
+nel
+nen
+nent
+ner
+nera
+nes
+nes 
+ness
+net
+new
+new 
+news
+ney
+ney 
+nf
+nfe
+nfi
+nfir
+nfl
+nfli
+nfo
+nfor
+ng
+ng 
+ng a
+ng b
+ng c
+ng d
+ng e
+ng f
+ng g
+ng h
+ng i
+ng l
+ng m
+ng n
+ng o
+ng p
+ng r
+ng s
+ng t
+ng u
+ng w
+"ng,"
+"ng, "
+ng.
+ng. 
+nge
+nge 
+nger
+nges
+ngl
+ngly
+ngr
+ngre
+ngs
+ngs 
+ngt
+ni
+nic
+nica
+nie
+nif
+nifi
+nin
+ning
+nio
+nior
+nis
+nist
+nit
+niti
+niv
+nive
+niz
+niza
+nk
+nk 
+nl
+nli
+nly
+nly 
+nm
+nme
+nmen
+nn
+nne
+nned
+nni
+nnin
+nno
+nnou
+no
+no 
+no l
+nof
+nom
+nomi
+non
+nor
+nor 
+norp
+not
+not 
+noth
+nou
+noun
+now
+now 
+np
+npr
+ns
+ns 
+ns a
+ns c
+ns d
+ns f
+ns i
+ns o
+ns s
+ns t
+ns u
+ns w
+"ns,"
+"ns, "
+ns.
+ns. 
+nse
+nse 
+nsi
+nsib
+nsid
+nsp
+nst
+nst 
+nstr
+nsu
+nsur
+nt
+nt 
+nt a
+nt b
+nt c
+nt d
+nt e
+nt f
+nt g
+nt h
+nt i
+nt l
+nt m
+nt o
+nt p
+nt r
+nt s
+nt t
+nt w
+"nt,"
+"nt, "
+nt.
+nt. 
+nta
+nte
+nted
+ntel
+nten
+nter
+nti
+ntia
+ntif
+ntin
+ntio
+ntit
+ntl
+ntly
+nto
+nto 
+ntr
+ntri
+ntro
+ntry
+nts
+nts 
+"nts,"
+nts.
+nty
+nu
+nue
+num
+numb
+nv
+nve
+nves
+nvi
+nvo
+nvol
+nw
+ny
+ny 
+ny o
+o 
+o a
+o a 
+o al
+o an
+o b
+o be
+o c
+o ca
+o co
+o cr
+o d
+o da
+o de
+o di
+o e
+o en
+o ev
+o f
+o fi
+o fu
+o g
+o ge
+o gp
+o h
+o ha
+o he
+o hi
+o ho
+o i
+o im
+o in
+o l
+o le
+o li
+o lo
+o m
+o ma
+o mo
+o n
+o no
+o o
+o or
+o p
+o pa
+o pe
+o pr
+o r
+o re
+o s
+o sa
+o se
+o sh
+o st
+o su
+o t
+o ta
+o th
+o tr
+o u
+o v
+o w
+o wa
+o wh
+o wo
+"o,"
+"o, "
+o.
+oa
+oad
+oar
+ob
+oba
+oc
+oc 
+oc a
+oca
+ocat
+oce
+oces
+oci
+ocia
+ock
+ock 
+ocke
+ocu
+ocus
+od
+od 
+ode
+odu
+oduc
+oe
+oes
+oes 
+oesn
+of
+of 
+of a
+of b
+of c
+of d
+of e
+of f
+of g
+of h
+of i
+of l
+of m
+of n
+of o
+of p
+of r
+of s
+of t
+of w
+of_
+of_a
+ofe
+off
+off 
+offi
+ofi
+ofit
+og
+ogr
+ogra
+oh
+oi
+oin
+oing
+oint
+oj
+oje
+ojec
+ok
+ok 
+oke
+okes
+ol
+ol 
+ola
+old
+old 
+ole
+oli
+olic
+olit
+oll
+olle
+ollo
+olo
+olog
+ols
+olu
+olv
+olve
+om
+om 
+om a
+om c
+om o
+om t
+oma
+omb
+ome
+ome 
+omen
+omes
+omi
+omin
+omm
+omme
+ommi
+omp
+ompa
+ompl
+on
+on 
+on a
+on b
+on c
+on d
+on e
+on f
+on g
+on h
+on i
+on l
+on m
+on n
+on o
+on p
+on r
+on s
+on t
+on w
+"on,"
+"on, "
+on.
+on. 
+ona
+onal
+onc
+once
+ond
+onde
+one
+one 
+oned
+ones
+oney
+onf
+onfi
+onfl
+ong
+ong 
+onge
+ongr
+oni
+onl
+only
+onn
+onne
+ono
+onp
+ons
+ons 
+"ons,"
+ons.
+onse
+onsi
+onst
+ont
+ont 
+onta
+onte
+onti
+ontr
+ony
+ony 
+oo
+oo 
+ood
+ood 
+ook
+ook 
+ool
+ool 
+oom
+oom 
+oor
+oot
+op
+op 
+ope
+open
+oper
+opi
+opl
+ople
+opp
+oppo
+opu
+opul
+or
+or 
+or a
+or b
+or c
+or d
+or f
+or g
+or h
+or i
+or m
+or o
+or p
+or r
+or s
+or t
+or w
+ora
+orar
+orc
+orce
+ord
+orde
+ordi
+ore
+ore 
+ored
+orei
+org
+org 
+"org,"
+org.
+orga
+orgs
+ori
+orit
+ork
+ork 
+ork_
+orl
+orld
+orm
+orm 
+orma
+orme
+orn
+orne
+orp
+orp 
+orr
+ors
+ors 
+orse
+ort
+ort 
+orta
+orte
+orth
+orti
+orts
+ory
+ory 
+ory.
+os
+ose
+ose 
+osed
+osi
+osit
+oss
+oss 
+ossi
+ost
+ost 
+osts
+ot
+ot 
+ot a
+ot b
+ot s
+ot t
+ota
+ote
+ote 
+otec
+oted
+oten
+oter
+otes
+oth
+oth 
+othe
+oti
+otia
+otin
+oto
+ots
+ots 
+ou
+ou 
+oug
+ough
+oul
+ould
+oun
+ounc
+ound
+oung
+ount
+oup
+our
+our 
+ourc
+ourt
+ous
+ous 
+ousl
+out
+out 
+outh
+outl
+outs
+ov
+ova
+ove
+ove 
+oved
+over
+ovi
+ovid
+ow
+ow 
+ow a
+ow i
+ow o
+ow t
+"ow,"
+"ow, "
+owe
+owed
+ower
+owi
+owin
+owl
+own
+own 
+ows
+ows 
+oy
+p 
+p a
+p an
+p b
+p c
+p ca
+p d
+p e
+p f
+p fo
+p g
+p h
+p i
+p in
+p l
+p m
+p n
+p o
+p of
+p p
+p pr
+p r
+p re
+p s
+p t
+p th
+p to
+p w
+"p,"
+"p, "
+p.
+p. 
+p. p
+pa
+pac
+pai
+paig
+pan
+pany
+par
+para
+part
+pas
+pass
+pat
+pati
+pay
+pe
+pe 
+pe a
+pe c
+pe d
+pe f
+pe g
+pe h
+pe i
+pe m
+pe n
+pe o
+pe p
+pe s
+pe t
+pe w
+"pe,"
+"pe, "
+pe.
+pe. 
+pea
+peak
+pear
+pec
+peci
+pect
+ped
+ped 
+pee
+pen
+pen 
+pend
+pene
+peni
+peo
+peop
+per
+per 
+pera
+perc
+peri
+perm
+pers
+pes
+pes 
+ph
+pho
+pi
+pic
+pin
+ping
+pir
+pit
+pita
+pite
+pl
+pla
+plac
+plai
+plan
+ple
+ple 
+plet
+pli
+plo
+ploy
+ply
+ply 
+pm
+pme
+pmen
+po
+poi
+poin
+pok
+poke
+pol
+poli
+pon
+pond
+pons
+pop
+popu
+por
+pora
+port
+pos
+pose
+posi
+poss
+post
+pot
+pote
+pow
+powe
+pp
+ppe
+ppea
+pped
+ppi
+ppin
+ppl
+pply
+ppo
+ppoi
+ppor
+ppr
+ppro
+pr
+pre
+prep
+pres
+prev
+pri
+pric
+prim
+pris
+pro
+prob
+proc
+prod
+prof
+prog
+proj
+prom
+prop
+prot
+prov
+ps
+ps 
+pt
+pt 
+pte
+pti
+ptio
+pu
+pub
+publ
+pul
+put
+put 
+qu
+qua
+quan
+que
+ques
+qui
+quir
+r 
+r a
+r a 
+r al
+r an
+r at
+r b
+r be
+r c
+r ca
+r co
+r d
+r da
+r de
+r e
+r f
+r fo
+r g
+r gp
+r h
+r ha
+r he
+r hi
+r i
+r in
+r it
+r l
+r lo
+r m
+r mo
+r n
+r no
+r o
+r of
+r or
+r p
+r pe
+r po
+r pr
+r r
+r re
+r s
+r sa
+r se
+r so
+r st
+r su
+r t
+r te
+r th
+r ti
+r to
+r u
+r v
+r w
+r we
+r wh
+r wi
+"r,"
+"r, "
+"r, a"
+"r, p"
+r.
+r. 
+ra
+ra 
+rac
+race
+rack
+ract
+rad
+rag
+rage
+rai
+rain
+rais
+ral
+ral 
+rall
+ram
+ran
+ranc
+rand
+rans
+rant
+rap
+rar
+rary
+ras
+rat
+rate
+rati
+rav
+rave
+raw
+rb
+rc
+rce
+rce 
+rcem
+rcen
+rces
+rch
+rci
+rd
+rd 
+rde
+rder
+rdi
+rdin
+rds
+rds 
+re
+re 
+re a
+re b
+re c
+re d
+re e
+re f
+re h
+re i
+re l
+re m
+re n
+re o
+re p
+re r
+re s
+re t
+re w
+"re,"
+"re, "
+re.
+re. 
+rea
+reac
+read
+reak
+real
+reas
+reat
+rec
+rece
+reco
+rect
+red
+red 
+redi
+ree
+ree 
+reed
+reem
+reet
+ref
+refu
+reg
+rega
+regi
+rei
+reig
+rel
+rela
+rele
+reli
+rem
+rema
+remo
+ren
+renc
+rent
+rep
+rep.
+repa
+repo
+repr
+req
+requ
+res
+res 
+rese
+resi
+reso
+resp
+ress
+rest
+resu
+ret
+reta
+retu
+rev
+reve
+revi
+rew
+rf
+rg
+rg 
+"rg ,"
+rg .
+rg a
+rg b
+rg c
+rg d
+rg e
+rg f
+rg g
+rg h
+rg i
+rg m
+rg n
+rg o
+rg p
+rg r
+rg s
+rg t
+rg v
+rg w
+"rg,"
+"rg, "
+rg.
+rg. 
+rga
+rgan
+rge
+rge 
+rged
+rges
+rgs
+rgs 
+rgu
+ri
+ria
+rial
+rib
+ribe
+ric
+rice
+rict
+rid
+rie
+ried
+rien
+ries
+rif
+rig
+righ
+ril
+rim
+rima
+rime
+rin
+ring
+rio
+riou
+rip
+ris
+risi
+rit
+riti
+rity
+riv
+riva
+rive
+rk
+rk 
+rk_
+rk_o
+rke
+rki
+rkin
+rks
+rks 
+rl
+rld
+rly
+rly 
+rm
+rm 
+rm t
+rma
+rman
+rmat
+rme
+rmed
+rmer
+rmi
+rmin
+rms
+rms 
+rn
+rn 
+rn t
+rna
+rnal
+rne
+rned
+rney
+rni
+rnin
+rnm
+rnme
+rno
+rnor
+rns
+rns 
+ro
+roa
+road
+rob
+roc
+roce
+rod
+rodu
+rof
+rofi
+rog
+rogr
+roj
+roje
+rol
+rol 
+roll
+rom
+rom 
+romi
+ron
+rong
+roo
+room
+rop
+ror
+ros
+ross
+rot
+rote
+rou
+roug
+roun
+roup
+rov
+rove
+rovi
+row
+rp
+rp 
+rp a
+rp c
+rp i
+rp l
+rp m
+rp o
+rp p
+rp r
+rp s
+rr
+rre
+rred
+rren
+rres
+rri
+rriv
+rro
+rror
+rs
+rs 
+rs a
+rs f
+rs h
+rs i
+rs o
+rs s
+rs t
+rs w
+"rs,"
+"rs, "
+rs.
+rs. 
+rsa
+rse
+rsh
+rsi
+rso
+rson
+rst
+rsta
+rt
+rt 
+rt a
+rt o
+rt t
+rt w
+"rt,"
+"rt, "
+rta
+rtai
+rte
+rted
+rter
+rth
+rth 
+rthe
+rti
+rtic
+rtin
+rts
+rts 
+rtu
+rty
+rty 
+ru
+ruc
+ruct
+rul
+rule
+ruli
+rum
+rump
+run
+rus
+rust
+rv
+rva
+rve
+rvi
+rvic
+rw
+rwa
+ry
+ry 
+ry a
+ry c
+ry d
+ry i
+ry o
+ry p
+ry r
+ry s
+ry t
+ry w
+"ry,"
+"ry, "
+ry.
+ry. 
+rys
+s 
+s a
+s a 
+s ab
+s ac
+s ad
+s af
+s ag
+s al
+s an
+s ar
+s as
+s at
+s b
+s ba
+s be
+s bu
+s by
+s c
+s ca
+s ch
+s co
+s cr
+s d
+s da
+s de
+s di
+s du
+s e
+s en
+s ex
+s f
+s fa
+s fe
+s fi
+s fo
+s fr
+s g
+s gp
+s h
+s ha
+s he
+s hi
+s ho
+s i
+s in
+s is
+s it
+s k
+s l
+s la
+s le
+s li
+s lo
+s m
+s ma
+s mi
+s mo
+s n
+s na
+s ne
+s no
+s o
+s of
+s on
+s or
+s ou
+s p
+s pa
+s pe
+s po
+s pr
+s r
+s re
+s s
+s sa
+s se
+s sh
+s so
+s sp
+s st
+s su
+s t
+s te
+s th
+s ti
+s to
+s tr
+s u
+s un
+s v
+s vo
+s w
+s wa
+s we
+s wh
+s wi
+s wo
+"s,"
+"s, "
+"s, a"
+"s, h"
+"s, i"
+"s, p"
+"s, s"
+"s, t"
+"s, w"
+s.
+s. 
+s. a
+s. b
+s. h
+s. i
+s. o
+s. p
+s. t
+s. w
+sa
+saf
+safe
+sag
+sage
+sai
+said
+sam
+same
+san
+sar
+sary
+sat
+sati
+say
+say 
+sayi
+says
+sc
+sca
+scal
+sch
+sco
+scr
+scri
+scu
+scus
+se
+se 
+se a
+se c
+se d
+se i
+se m
+se o
+se p
+se t
+se w
+"se,"
+"se, "
+se.
+se. 
+sea
+sec
+secr
+secu
+sed
+sed 
+see
+see 
+seek
+sel
+self
+sen
+seni
+sent
+ser
+seri
+serv
+ses
+ses 
+set
+set 
+sev
+seve
+sf
+sh
+sh 
+sha
+shar
+she
+she 
+shed
+shi
+shin
+ship
+sho
+shor
+shou
+show
+si
+sib
+sibl
+sic
+sid
+side
+sig
+sign
+sin
+sinc
+sine
+sing
+sio
+sion
+sis
+sis 
+sist
+sit
+site
+siti
+siv
+sive
+sk
+sk 
+ske
+sl
+sla
+slat
+sly
+sly 
+sm
+sm 
+sma
+sman
+sn
+snt
+snt 
+so
+so 
+so s
+soc
+soci
+sol
+som
+some
+son
+son 
+"son,"
+son.
+sona
+sons
+sor
+sou
+sour
+sp
+spa
+spe
+spea
+spec
+spen
+sper
+spi
+spit
+spo
+spok
+spon
+spr
+ss
+ss 
+ss a
+ss i
+ss o
+ss t
+ss.
+ssa
+ssag
+sse
+ssed
+sses
+ssi
+ssib
+ssin
+ssio
+ssiv
+ssu
+ssue
+st
+st 
+st a
+st b
+st c
+st d
+st e
+st g
+st h
+st i
+st l
+st n
+st o
+st p
+st r
+st s
+st t
+st w
+"st,"
+"st, "
+sta
+stab
+stal
+stan
+star
+stat
+ste
+stea
+sted
+stem
+sten
+step
+ster
+sti
+stic
+stig
+stil
+stim
+stin
+stio
+sto
+stor
+str
+stra
+stre
+stri
+stro
+stru
+sts
+sts 
+stu
+stud
+su
+sub
+subs
+suc
+succ
+such
+sue
+sui
+suit
+sul
+sult
+sum
+sup
+supp
+sur
+sure
+sus
+susp
+sw
+sy
+sys
+syst
+t 
+t a
+t a 
+t ad
+t al
+t an
+t ar
+t as
+t at
+t b
+t ba
+t be
+t by
+t c
+t ca
+t co
+t cr
+t d
+t da
+t de
+t du
+t e
+t ev
+t ex
+t f
+t fa
+t fi
+t fo
+t fr
+t g
+t gp
+t h
+t ha
+t he
+t hi
+t ho
+t i
+t im
+t in
+t is
+t it
+t j
+t k
+t l
+t le
+t li
+t lo
+t m
+t ma
+t me
+t mo
+t n
+t no
+t o
+t of
+t on
+t or
+t ou
+t ov
+t p
+t pe
+t po
+t pr
+t r
+t re
+t s
+t sa
+t se
+t sh
+t st
+t su
+t t
+t th
+t ti
+t to
+t u
+t un
+t w
+t wa
+t we
+t wh
+t wi
+t wo
+t y
+"t,"
+"t, "
+"t, a"
+"t, i"
+"t, o"
+"t, p"
+"t, s"
+"t, t"
+t.
+t. 
+t. i
+t. o
+t. t
+ta
+tab
+tabl
+tac
+tag
+tage
+tai
+tain
+tak
+take
+tal
+tal 
+talk
+tall
+tan
+tanc
+tand
+tant
+tar
+tart
+tary
+tat
+tate
+tati
+tb
+tc
+tch
+tch 
+te
+te 
+te a
+te b
+te c
+te d
+te e
+te f
+te h
+te i
+te m
+te o
+te p
+te r
+te s
+te t
+te w
+"te,"
+"te, "
+te.
+te. 
+tea
+tead
+team
+tec
+tech
+tect
+ted
+ted 
+ted.
+tedl
+tee
+tel
+tell
+tely
+tem
+teme
+temp
+ten
+ten 
+tend
+tens
+tent
+tep
+tep 
+ter
+ter 
+ter.
+tere
+teri
+term
+tern
+terr
+ters
+terv
+tes
+tes 
+test
+tf
+th
+th 
+th a
+th c
+th d
+th f
+th g
+th h
+th i
+th n
+th o
+th p
+th s
+th t
+tha
+than
+that
+the
+the 
+thei
+them
+then
+ther
+thes
+they
+thi
+thin
+this
+tho
+thor
+thos
+thou
+thr
+thre
+thro
+ti
+tia
+tial
+tiat
+tic
+tic 
+tica
+tici
+tics
+tie
+ties
+tif
+tifi
+tig
+tiga
+til
+till
+tim
+time
+tin
+ting
+tinu
+tio
+tion
+tip
+tis
+tit
+tity
+tiv
+tive
+tiz
+tize
+tl
+tle
+tle 
+tly
+tly 
+tm
+tme
+tmen
+to
+to 
+to a
+to b
+to c
+to d
+to e
+to f
+to g
+to h
+to i
+to l
+to m
+to n
+to o
+to p
+to r
+to s
+to t
+to w
+tog
+tol
+told
+too
+top
+top 
+tor
+tor 
+tore
+tori
+torn
+tors
+tory
+tou
+tp
+tr
+tra
+trac
+trai
+tran
+trat
+trav
+tre
+trea
+tri
+tric
+trie
+tro
+trol
+tron
+tru
+truc
+trum
+try
+try 
+ts
+ts 
+ts a
+ts b
+ts c
+ts d
+ts e
+ts f
+ts h
+ts i
+ts l
+ts m
+ts n
+ts o
+ts p
+ts r
+ts s
+ts t
+ts w
+"ts,"
+"ts, "
+ts.
+ts. 
+tsi
+tsid
+tt
+tta
+ttac
+tte
+tted
+ttem
+tter
+tti
+ttin
+ttl
+ttle
+tto
+ttor
+tu
+tua
+tual
+tud
+tude
+tur
+ture
+turn
+tw
+twe
+twee
+ty
+ty 
+ty a
+ty c
+ty i
+ty o
+ty t
+"ty,"
+"ty, "
+ty.
+ty. 
+u 
+ua
+ual
+ual 
+uall
+uan
+uant
+uar
+uard
+uat
+ub
+ubl
+ubli
+ubs
+uc
+ucc
+ucce
+uch
+uch 
+uct
+uct 
+ucti
+ud
+ud 
+ude
+uded
+udes
+udg
+udge
+udi
+udin
+ue
+ue 
+ue t
+ued
+ued 
+uen
+uenc
+ues
+ues 
+uest
+uf
+ug
+ugg
+ugh
+ugh 
+ught
+ui
+uil
+uild
+uin
+uing
+uir
+uire
+uit
+ul
+ul 
+ula
+ular
+ulat
+uld
+uld 
+ule
+uled
+uli
+ulin
+ull
+ult
+ult 
+ulti
+um
+um 
+umb
+umbe
+ume
+umen
+ump
+ump 
+un
+un 
+unc
+unce
+unch
+und
+und 
+unde
+undi
+unds
+ung
+ung 
+uni
+unit
+unn
+unt
+unt 
+unte
+untr
+up
+up 
+up t
+upp
+uppo
+ur
+ur 
+ura
+urc
+urce
+ure
+ure 
+ured
+ures
+urg
+uri
+urin
+urit
+urn
+urn 
+urne
+urr
+urre
+urs
+urt
+urt 
+urth
+ury
+ury 
+us
+us 
+use
+use 
+used
+usi
+usin
+usl
+usly
+usp
+uss
+ust
+ust 
+ut
+ut 
+ut a
+ut h
+ut i
+ut n
+ut o
+ut t
+ut w
+ute
+ute 
+uth
+utho
+uti
+utio
+utiv
+utl
+uto
+uts
+utsi
+utt
+utti
+va
+val
+val 
+van
+vat
+vati
+ve
+ve 
+ve a
+ve b
+ve c
+ve d
+ve f
+ve h
+ve i
+ve n
+ve o
+ve p
+ve r
+ve s
+ve t
+ved
+ved 
+vel
+vel 
+vely
+ven
+ven 
+vent
+ver
+ver 
+"ver,"
+vera
+vere
+vern
+vers
+very
+ves
+ves 
+vest
+vi
+vic
+vice
+vict
+vid
+vide
+vidu
+vie
+view
+vil
+vin
+ving
+vio
+viol
+vis
+visi
+vo
+vol
+volv
+vot
+vote
+w 
+w a
+w an
+w c
+w d
+w e
+w f
+w h
+w i
+w in
+w m
+w o
+w of
+w p
+w s
+w t
+w th
+w w
+"w,"
+"w, "
+w.
+w. 
+wa
+wal
+walk
+wan
+want
+war
+war 
+ward
+warn
+was
+was 
+wat
+watc
+wate
+way
+way 
+we
+we 
+wea
+weap
+wed
+wed 
+wee
+ween
+wel
+well
+wer
+wer 
+were
+wev
+weve
+wh
+wha
+what
+whe
+when
+wher
+whet
+whi
+whic
+whil
+who
+who 
+whos
+wi
+wid
+wide
+wil
+will
+win
+wing
+wit
+with
+wl
+wly
+wly 
+wm
+wma
+wmak
+wn
+wn 
+wn a
+wn o
+wo
+wom
+won
+wor
+work
+worl
+wort
+wou
+woul
+wr
+wro
+wrot
+ws
+ws 
+wsu
+wsui
+x 
+xa
+xc
+xe
+xec
+xecu
+xi
+xp
+xpe
+xpec
+xper
+xpl
+xpr
+xpre
+xt
+y 
+y a
+y a 
+y af
+y an
+y ar
+y as
+y b
+y ba
+y be
+y c
+y ca
+y co
+y d
+y da
+y de
+y do
+y e
+y f
+y fa
+y fo
+y fr
+y g
+y ge
+y h
+y ha
+y i
+y in
+y is
+y k
+y l
+y la
+y m
+y ma
+y me
+y n
+y no
+y o
+y of
+y on
+y or
+y p
+y pe
+y pr
+y r
+y re
+y s
+y sa
+y se
+y sh
+y si
+y st
+y t
+y th
+y to
+y tr
+y u
+y un
+y v
+y w
+y wa
+y we
+y wi
+"y,"
+"y, "
+"y, a"
+y.
+y. 
+y. a
+y. t
+ye
+yer
+yi
+yin
+ying
+ym
+yme
+ymen
+yo
+yon
+yone
+you
+you 
+youn
+ys
+ys 
+yst
+yste
+yt
+yth
+ythi
+za
+zat
+zati
+ze
+ze 
+zed
+zed 
+zen
+zi
+zin
+zing
