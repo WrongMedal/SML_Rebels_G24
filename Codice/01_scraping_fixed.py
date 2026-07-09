@@ -109,7 +109,7 @@ class AllSidesScraper:
         chrome_options = Options()
         chrome_options.add_argument("--window-size=1920,1080")
         chrome_options.add_argument("--disable-gpu")
-        self.driver = uc.Chrome(options=chrome_options, version_main=148)
+        self.driver = uc.Chrome(options=chrome_options, version_main=150)
         # Senza questo, una singola pagina che non risponde blocca lo
         # script all'infinito. Con questo, dopo 15s Selenium alza
         # TimeoutException invece di restare appeso.
@@ -253,7 +253,7 @@ class AllSidesScraper:
         chrome_options = Options()
         chrome_options.add_argument("--window-size=1920,1080")
         chrome_options.add_argument("--disable-gpu")
-        self.driver = uc.Chrome(options=chrome_options, version_main=148)
+        self.driver = uc.Chrome(options=chrome_options, version_main=150)
         self.driver.set_page_load_timeout(15)
         self.driver.command_executor.set_timeout(20)
 
@@ -393,7 +393,7 @@ class AllSidesScraper:
         print(f"Sessione terminata: {valid_count} nuove triplette salvate.")
         print(f"Controlla '{self.issues_log}' per eventuali problemi da rivedere a mano.")
 
-    def run_multi_page(self, start_url, max_pages=7, start_page_number=1):
+    def run_multi_page(self, start_url, max_pages=4, start_page_number=1):
         """Come run(), ma dopo aver scrapato la pagina corrente CLICCA
         il link della pagina successiva (invece di navigare a un URL
         ?page=N costruito a mano) e ripete, fino a max_pages pagine o
@@ -530,9 +530,9 @@ if __name__ == '__main__':
 
     scraper = AllSidesScraper(output_file='allsides_triplets_fixed.jsonl')
     scraper.run_multi_page(
-        start_url='https://www.allsides.com/recent-headline-roundups',
-        max_pages=7,
-        start_page_number=1,
+        start_url='https://www.allsides.com/recent-headline-roundups?page=10',
+        max_pages=4,
+        start_page_number=10,
     )
 
     # se dopo queste 7 pagine non hai ancora abbastanza topic, rilancia

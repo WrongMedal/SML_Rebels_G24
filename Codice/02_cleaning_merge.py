@@ -226,7 +226,7 @@ def merge_datasets(old_csv_path, new_jsonl_path, output_csv_path='dataset_finale
 
 if __name__ == '__main__':
     merge_datasets(
-        old_csv_path='articles_clean.csv',
+        old_csv_path='dataset_finale_merged.csv',
         new_jsonl_path='allsides_triplets_fixed.jsonl',
-        output_csv_path='dataset_finale_merged.csv',
+        output_csv_path='dataset_finale_merged_v2.csv',
     )
