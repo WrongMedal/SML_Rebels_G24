@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.DS_Store
+Codice/debug_page_source_before_page_*.html
+Codice/allsides_triplets_fixed.jsonl
+Codice/dataset_strutturato_allsides_fixed.csv
