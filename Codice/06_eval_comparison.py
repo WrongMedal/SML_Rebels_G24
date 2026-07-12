@@ -1,1 +1,0 @@
-#Valutazioni, grafiche e numeriche
