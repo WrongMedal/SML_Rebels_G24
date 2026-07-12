@@ -393,7 +393,7 @@ class AllSidesScraper:
         print(f"Sessione terminata: {valid_count} nuove triplette salvate.")
         print(f"Controlla '{self.issues_log}' per eventuali problemi da rivedere a mano.")
 
-    def run_multi_page(self, start_url, max_pages=1, start_page_number=1):
+    def run_multi_page(self, start_url, max_pages=2, start_page_number=1):
         """Come run(), ma dopo aver scrapato la pagina corrente CLICCA
         il link della pagina successiva (invece di navigare a un URL
         ?page=N costruito a mano) e ripete, fino a max_pages pagine o
@@ -530,9 +530,9 @@ if __name__ == '__main__':
 
     scraper = AllSidesScraper(output_file='allsides_test_holdout.jsonl')
     scraper.run_multi_page(
-        start_url='https://www.allsides.com/recent-headline-roundups?page=14',
-        max_pages=1,
-        start_page_number=14,
+        start_url='https://www.allsides.com/recent-headline-roundups?page=16',
+        max_pages=2,
+        start_page_number=16,
     )
 
     # se dopo queste 7 pagine non hai ancora abbastanza topic, rilancia
