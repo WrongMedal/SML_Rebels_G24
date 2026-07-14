@@ -35,9 +35,6 @@ SML_Rebels_G24/
 ```
 
 
-Nota: ai requirements manca la parte dello scraper... probebilmente non funziona su tutti i pc e su tutti i browser, comunque il dataset originale è a disposizione in \Dati\Raw\dataset_strutturato_allsides.csv
-
----
 
 ## Scaletta
 Per ora è abbastanza generale, mano mano che ci lavoriamo inseriamo dettagli, note e scadenze.
