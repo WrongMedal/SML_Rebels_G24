@@ -24,7 +24,7 @@ SML_Rebels_G24/
 |
 |-- Papers/                      # papers selezionati con motivazioni associate
 |
-|-- Risultati/                   # grafici, immagini e risultati numerici, parziali e finali
+|-- Risultati/                   # report e presentazione
 |
 |-- .gitignore                   # file/cartelle da ignorare su git
 |-- requirements.txt             # librerie necessarie per il progetto
