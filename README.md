@@ -1,7 +1,4 @@
 # SML_Rebels_G24
-Se avete dubbi sulla struttura e/o l'utilizzo di questa repo chiedete sul gruppo. Non modificate il "main" ma usate uno dei due branch. Una volta che la modifica viene finalizzata e ci assicuriamo che non ci sono errori la introduciamo nel main. Sono già stati creati due branch.
-
-Di seguito sono riportati la struttura e a che punto del lavoro stiamo secondo una prima bozza di scaletta.
 
 ## Struttura della repo
 
