@@ -33,19 +33,3 @@ SML_Rebels_G24/
 |-- requirements.txt             # librerie necessarie per il progetto
 |-- README.md                    # questo file che state leggendo
 ```
-
-
-
-## Scaletta
-Per ora è abbastanza generale, mano mano che ci lavoriamo inseriamo dettagli, note e scadenze.
-
-- ~~**Analisi dei paper** — lettura dei paper di riferimento e formalizzazione dell'obiettivo del progetto~~
-- ~~**Scraping** — raccolta dei dati testuali~~
-- ~~**Pulizia dei dati** — preprocessing, normalizzazione...~~
-- ~~**Analisi esplorativa** — visualizzazione e comprensione della distribuzione dei dati~~
-- **Primo modello** — implementazione del modello 1:
-- **Risultati** — valutazione delle performance e confronto con i paper di riferimento
-- **Secondo modello** — implementazione del modello 2
-- **Risultati** — valutazione delle performance e confronto con i paper di riferimento
-- **Confronto** — confronto tra i due modelli
-- **Presentazione** — preparazione delle slide e dei materiali finali
